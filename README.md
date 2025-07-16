@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/tarc%C3%ADsio-lima-ferreira-6b4312194/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="tlf@ic.ufal.br" target="_blank">
+  <a href="mailto:tlf@ic.ufal.br" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
